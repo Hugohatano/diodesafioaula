@@ -1,4 +1,4 @@
-# DB2 sem Mistérios: 8 Práticas Cruciais para Manutenção e Alta Disponibilidade no Mainframe
+# Desvendando os mistérios do DB2: 8 Práticas Cruciais para Manutenção e Alta Disponibilidade no Mainframe
 
 ## 📒 Descrição
 boas práticas para manutenção e disponibilidade do DB2
@@ -6,6 +6,7 @@ boas práticas para manutenção e disponibilidade do DB2
 ## 🤖 Tecnologias Utilizadas
 - **IA Generativa ChatGPT** para criar a narrativa.  
 - **IA Generativa ElevenLabs** para clonagem e sintetização de voz.
+- **CAPCUT** utilizado para editar o audio e personaliza-lo
 
 ## 🧐 Processo de Criação
 - **ChatGPT** foi utilizado para desenvolver um dialogo partir de pequenas informações sobre DB2, o prompt utilizado foi:
@@ -20,6 +21,7 @@ crie um dialogo  para um podcast sobre DB2
 - com no máximo 5 minutos de audio
 
 - **ElevenLabs** ajudou a criar uma voz sintética envolvente para a narrar o podcast.
+- **CAPCUT** permitiu editar o arquivo de audio e personaliza-lo com musica de fundo e algumas pausas audio
 
 ## 🚀 Resultados
 O arquivo encontra-se no link:
