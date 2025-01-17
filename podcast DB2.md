@@ -26,5 +26,5 @@ crie um dialogo  para um podcast sobre DB2
 ## 🚀 Resultados
 O arquivo encontra-se no link:
 
-https://soundcloud.com/hugo-hatano/devesdando-os-misterios-do-db2-episodio-unico?si=f619b24569034d0ea5f124c3058adcf1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
-
+[ouça aqui](
+https://soundcloud.com/hugo-hatano/devesdando-os-misterios-do-db2-episodio-unico?si=f619b24569034d0ea5f124c3058adcf1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
