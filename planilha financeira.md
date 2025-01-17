@@ -12,4 +12,4 @@ Planilha financeira para acompanhar gastos e economias
 ## 🚀 Resultados
 O arquivo encontra-se no link:
 
-[para baixa-la clique aqui]([https://github.com/Hugohatano/diodesafioaula/blob/main/EBOOK%20DB2%20DIO.pdf](https://github.com/Hug ohatano/diodesafioaula/blob/main/exercicio(1).xlsx))
+[para baixa-la clique aqui](https://github.com/Hug ohatano/diodesafioaula/blob/main/exercicio(1).xlsx)
