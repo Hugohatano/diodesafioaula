@@ -27,5 +27,5 @@ boas práticas para manutenção e disponibilidade do DB2
 
 ## 🚀 Resultados
 O arquivo encontra-se no link:
-
+[https://github.com/Hugohatano/diodesafioaula/blob/main/EBOOK.md](https://github.com/Hugohatano/diodesafioaula/blob/main/EBOOK%20DB2%20DIO.pdf)
 
